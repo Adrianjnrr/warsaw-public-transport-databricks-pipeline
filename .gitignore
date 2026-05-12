@@ -1,0 +1,12 @@
+# Python cache
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter/Databricks notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/

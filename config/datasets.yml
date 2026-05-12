@@ -1,0 +1,10 @@
+file_path : "/Volumes/workspace/warsaw/warsaw_transport"
+
+datasets :
+  routes : routes.txt
+  stops: stops.txt
+  stop_times: stop_times.txt
+  trips: trips.txt
+  calendar: calendar.txt
+  calendar_dates: calendar_dates.txt
+  feed_info: feed_info.txt

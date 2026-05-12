@@ -1,0 +1,6 @@
+pyspark
+delta-spark
+pyyaml
+pytest
+databricks-connect
+Databricks-jobs
